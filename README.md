@@ -5,8 +5,11 @@
 3. then get a new terminal in your vscode and initialize your user name and password for git as follow.Copy and paste the whole code at once.
    
 git config --global user.name "your gitusername"
+
 git config --global user.email "git email"
+
 git init
+
 git add .
 
 4. Then open a nother vscode and click on the "Clone git Repo" on the welcome tab.
